@@ -1,0 +1,15 @@
+ // b.create_bst(21);
+    // b.create_bst(76);
+    // b.create_bst(4);
+    // b.create_bst(32);
+    // b.create_bst(2);
+    // b.create_bst(15);
+    // b.create_bst(3);
+    // b.create_bst(14);
+    // b.create_bst(100);
+    // b.create_bst(64);
+    // b.create_bst(52);
+    // b.create_bst(70);
+    // b.create_bst(83);
+    // b.create_bst(80);
+    // b.create_bst(87);

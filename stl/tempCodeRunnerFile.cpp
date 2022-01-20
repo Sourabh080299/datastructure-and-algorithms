@@ -1,0 +1,1 @@
+ // sort(arr,arr+asize,comprator);
